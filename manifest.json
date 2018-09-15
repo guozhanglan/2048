@@ -1,0 +1,22 @@
+{
+	"initial": [
+		"libs/modules/egret/egret.js",
+		"libs/modules/egret/egret.web.js",
+		"libs/modules/game/game.js",
+		"libs/modules/res/res.js",
+		"libs/modules/tween/tween.js"
+	],
+	"game": [
+		"bin-debug/Element/RoundRect.js",
+		"bin-debug/Element/LoadingUI.js",
+		"bin-debug/Element/Best.js",
+		"bin-debug/Element/GameOther.js",
+		"bin-debug/Element/GameOverDialog.js",
+		"bin-debug/Main.js",
+		"bin-debug/Element/RestartBtn.js",
+		"bin-debug/Game.js",
+		"bin-debug/Element/Score.js",
+		"bin-debug/Event/GameOverEvent.js",
+		"bin-debug/Event/RestartEvent.js"
+	]
+}
